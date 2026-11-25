@@ -2,7 +2,7 @@
 
 - 시기: YYYY-MM
 - 유형: 트러블슈팅 / 의사결정 / 협업 / 실패와 회복 / 개선 제안
-- 관련 프로젝트: [projects/…](../projects/)
+- 관련 축: [product](../product/) / [ax](../ax/) / [process](../process/)
 
 **상황** — 2~3문장
 
